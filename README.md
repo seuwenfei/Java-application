@@ -1,6 +1,6 @@
 # Java Application (Simple Student Information System)
 
-This project is to write a Java application that represents a simple Student Information System. 
+This project aims to write a Java application that represents a simple Student Information System. 
 
 * Read the instructions for the project in [here](https://github.com/seuwenfei/Java-application/blob/main/Instructions%20for%20Java%20Application%20(2019).pdf).
 
